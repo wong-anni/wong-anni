@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning Computer Science at Northeastern University<br>🎯 Goals: Web Development, Software Development, Software Design <br>🎲 Fun fact: My hobbies are drawing, exercise, and music</p>
+<p align="left">📚 I'm currently learning Computer Science at Northeastern University<br>🎯 Goals: Web Development, Software Development, Software Design <br>🎲 Fun fact: My hobbies are drawing, exercising, and playing basketball.</p>
 
 ###
 
